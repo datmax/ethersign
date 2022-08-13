@@ -1,6 +1,6 @@
 # ethersign
 
-
+Note: change parameters in the index.js file to make it do stuff
 
 to install it: 
 
